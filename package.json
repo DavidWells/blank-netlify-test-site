@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "mkdir build && cp index.html build"
+    "build": "mkdir build && cp index.html build && printenv"
   },
   "keywords": [],
   "author": "",
